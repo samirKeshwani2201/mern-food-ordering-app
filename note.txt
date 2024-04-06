@@ -1,0 +1,1 @@
+added the mongo and auth email id of college so chances of not available in future
